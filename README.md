@@ -1,16 +1,27 @@
-## Hi there 👋
+## 📓 Featured Notebooks
 
-<!--
-**fatimahassan99/fatimahassan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇿🇦 South African Language Identification
+[![South African Language Identification](https://raw.githubusercontent.com/fatimahassan99/Fatima/main/assets/sa-language.webp)](https://github.com/fatimahassan99/South-African-language-Identification-Hackathon-/blob/main/South%20African%20language%20Identification%20Notebook%20.ipynb)
 
-Here are some ideas to get you started:
+*NLP · Text Classification · Machine Learning*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Spain Electricity Shortfall
+[![Spain Electricity Shortfall](https://raw.githubusercontent.com/fatimahassan99/Fatima/main/assets/electricity.jpg)](https://github.com/Ifeoluwa13/TEAM_RR15/blob/main/Team%20RR15%20workbook%20(1).ipynb)
+
+*Time Series · Energy Analytics · EDA*
+
+---
+
+### 💳 Credit Card Fraud Detection
+[![Credit Card Fraud Detection](https://raw.githubusercontent.com/fatimahassan99/Fatima/main/assets/fraud.jpg)](https://github.com/fatimahassan99/Credit-Card-Fraud-Detection-Using-Machine-Learning/blob/main/Fraud%20Detection.ipynb)
+
+*Classification · Imbalanced Data · ML*
+
+---
+
+### ⚽ FIFA World Cup Player Role Classification
+[![FIFA World Cup Player Roles](https://raw.githubusercontent.com/fatimahassan99/Fatima/main/assets/fifa.jpg)](https://github.com/fatimahassan99/Classifying-Player-Roles-at-the-2022-FIFA-World-Cup-Using-Machine-Learning-Notebook/blob/main/Classifying%20Player%20Roles%20at%20the%202022%20FIFA%20World%20Cup%20Using%20Machine%20Learning%20Notebook.ipynb)
+
+*Clustering · Sports Analytics · Machine Learning*
