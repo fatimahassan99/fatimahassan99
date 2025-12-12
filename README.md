@@ -46,8 +46,9 @@ The project explores preprocessing techniques, feature engineering, and traditio
 
 ### Spain Electricity Shortfall
 <a href="https://github.com/Ifeoluwa13/TEAM_RR15/blob/main/Team%20RR15%20workbook%20(1).ipynb">
-  <img src="https://raw.githubusercontent.com/fatimahassan99/Fatima/main/electricity-pylon-3916954_960_720.jpg" width="350"/>
-</a>
+ <a href="https://github.com/Ifeoluwa13/TEAM_RR15/blob/main/Team%20RR15%20workbook%20(1).ipynb">
+  <img src="https://github.com/fatimahassan99/Fatima/blob/main/electricity-pylon-3916954_960_720.jpg?raw=1" width="350"/>
+</a> 
 
 A time-series analytics project investigating electricity demand vs. supply patterns in Spain.  
 The notebook includes exploratory analysis, forecasting foundations, and energy-sector insights.  
